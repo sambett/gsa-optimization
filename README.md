@@ -47,7 +47,8 @@ The implementation includes several standard benchmark functions:
 ## Results
 
 Example convergence analysis for different population sizes on the Rosenbrock function:
-[Insert your convergence plot here]
+[![image](https://github.com/user-attachments/assets/c5aa44cd-a2ea-48d1-84c0-9bec74129abb)
+]
 
 ## Requirements
 
