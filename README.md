@@ -35,7 +35,22 @@ best_position, best_fitness = gravitational_search(
 ```
 
 For more examples, check the `examples/` directory.
+The examples show:
 
+  - simple_example.py: Basic usage of GSA
+  - compare_functions.py: How GSA performs on different optimization problems
+  - population_study.py: How population size affects optimization performance
+
+    ### Run basic example
+``` bash
+        python examples/simple_example.py
+
+        # Compare different functions
+        python examples/compare_functions.py
+
+        # Study population sizes
+        python examples/population_study.py
+```
 ## Benchmark Functions
 
 The implementation includes several standard benchmark functions:
